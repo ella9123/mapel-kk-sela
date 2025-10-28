@@ -1,0 +1,64 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f7c94a;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background: #fff4e0;
+  width: 700px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+h1 {
+  text-align: center;
+  color: #e74c3c;
+  font-size: 32px;
+}
+
+.biodata {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 20px 0;
+}
+
+.info p {
+  background: white;
+  border: 2px solid #e74c3c;
+  padding: 8px 12px;
+  margin: 10px 0;
+  border-radius: 10px;
+}
+
+.foto img {
+  width: 180px;
+  height: auto;
+  border-radius: 15px;
+  border: 3px solid #e74c3c;
+}
+
+.box {
+  border: 2px solid #e74c3c;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 15px 0;
+  background: white;
+}
+
+.box h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.pendidikan {
+  border: 2px solid #e74c3c;
+  border-radius: 10px;
+  padding: 15px;
+  margin-top: 20px;
+  background: white;
+}
